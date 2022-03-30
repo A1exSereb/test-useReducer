@@ -1,3 +1,3 @@
 export { UsersContext } from './context';
 export * as usersActions from './actions';
-export {UsersProvider} from './provider';
+export {UsersProvider, dispatchUsers} from './provider';
